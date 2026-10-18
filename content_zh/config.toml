@@ -1,12 +1,12 @@
 [site]
 title = "Weihang Jiang"
-description = "Weihang Jiang 的个人主页，记录研究、项目与成长。"
+description = "Weihang Jiang，芝加哥大学 Harris 公共政策学院 MACRM 项目硕士一年级学生。"
 last_updated = "2026年10月17日"
 
 [author]
 name = "Weihang Jiang"
-title = "个人主页"
-institution = ""
+title = "硕士一年级 · MACRM"
+institution = "芝加哥大学 Harris 公共政策学院"
 
 [[navigation]]
 title = "关于我"

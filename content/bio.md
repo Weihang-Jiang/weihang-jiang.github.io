@@ -1,9 +1,1 @@
-Welcome to my personal website. This is where I will share my research, projects, and experience.
-
-**Profile to be added.** This paragraph will introduce my background, current work, and interests.
-
-### What you can find here
-
-- **Publications** - research papers and related materials.
-- **Projects** - selected work, methods, and contributions.
-- **CV** - education and professional experience.
+I am a first-year M.A. student in Public Policy and Research Methods ([**MACRM**](https://harris.uchicago.edu/academics/degrees/ma-public-policy-certificate-research-methods-macrm)) at the **University of Chicago Harris School of Public Policy**. I received my bachelor's degree in Business Administration from **Soochow University**.

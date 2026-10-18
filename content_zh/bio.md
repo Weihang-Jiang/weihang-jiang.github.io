@@ -1,9 +1,1 @@
-欢迎来到我的个人主页。这里将记录我的研究、项目与学习经历。
-
-**个人简介待补充。** 这里将介绍我的背景、目前的工作，以及我感兴趣的问题。
-
-### 在这里了解我
-
-- **论文**：研究成果与相关资料。
-- **项目**：项目背景、实践方法与个人贡献。
-- **简历**：教育背景与工作经历。
+我目前是**芝加哥大学 Harris 公共政策学院**公共政策与研究方法硕士项目（[**MACRM**](https://harris.uchicago.edu/academics/degrees/ma-public-policy-certificate-research-methods-macrm)）的一年级学生。本科毕业于**苏州大学（Soochow University）**，专业为工商管理。

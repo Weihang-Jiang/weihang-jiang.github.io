@@ -1,13 +1,13 @@
 [site]
 title = "Weihang Jiang"
-description = "Personal homepage of Weihang Jiang. Research, projects, and experience."
+description = "Weihang Jiang is a first-year M.A. student in the MACRM program at the University of Chicago Harris School of Public Policy."
 favicon = "/favicon.svg"
 last_updated = "October 17, 2026"
 
 [author]
 name = "Weihang Jiang"
-title = "Personal website"
-institution = ""
+title = "M.A. Student (MACRM)"
+institution = "University of Chicago Harris School of Public Policy"
 avatar = "https://avatars.githubusercontent.com/u/192092026?v=4"
 
 [social]
