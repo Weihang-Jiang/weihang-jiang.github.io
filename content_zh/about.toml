@@ -16,9 +16,3 @@ type = "publications"
 title = "精选研究"
 filter = "selected"
 limit = 5
-
-[[sections]]
-id = "news"
-type = "list"
-title = "最近动态"
-source = "news.toml"
