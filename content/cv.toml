@@ -1,3 +1,4 @@
 type = "text"
-title = "CV"
+title = "Curriculum Vitae"
 source = "cv.md"
+pdf = "/CV.pdf"
