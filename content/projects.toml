@@ -1,0 +1,9 @@
+type = "card"
+title = "Projects"
+description = "Selected work and ongoing explorations."
+
+[[items]]
+title = "Project title - to be added"
+subtitle = "Placeholder"
+content = "Describe the problem, your approach, and your contribution here. Project details and links will be added later."
+tags = ["To be added"]

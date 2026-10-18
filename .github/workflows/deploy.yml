@@ -1,12 +1,8 @@
-name: Deploy PRISM to GitHub Pages
+name: Deploy personal homepage to GitHub Pages
 
 on:
-  # Push triggers are disabled by default for template users.
-  # Uncomment the lines below to enable automatic deployment on push.
-  # push:
-  #  branches: 
-  #      - main
-  #      - ci
+  push:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -14,27 +10,31 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Setup Node.js
+      - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
-
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v5
       - name: Install dependencies
-        run: npm install
-
-      - name: Build site
+        run: npm ci
+      - name: Build static website
         run: npm run build
-
-      - name: Upload artifact
+        env:
+          NEXT_PUBLIC_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+      - name: Upload static files
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./out
@@ -45,7 +45,6 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
     steps:
       - name: Deploy to GitHub Pages
         id: deployment

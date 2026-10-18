@@ -1,3 +1,5 @@
+> 本地个人网站已按 GitHub Pages 配置，中文操作步骤见 [SETUP.zh-CN.md](SETUP.zh-CN.md)。下方保留 PRISM 上游说明；个人内容以 `content/` 和 `content_zh/` 为准。
+
 <div align="center">
   <img src="./logo.png" alt="PRISM Logo" height="100"/>
 </div>

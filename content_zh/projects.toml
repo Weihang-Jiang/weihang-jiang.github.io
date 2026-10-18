@@ -1,0 +1,9 @@
+type = "card"
+title = "项目"
+description = "记录做过的工作与正在探索的问题。"
+
+[[items]]
+title = "项目名称 · 待补充"
+subtitle = "内容占位"
+content = "这里将介绍项目要解决的问题、采用的方法，以及我的具体贡献。项目资料与链接待补充。"
+tags = ["待补充"]

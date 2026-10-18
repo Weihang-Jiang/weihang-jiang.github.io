@@ -1,5 +1,9 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+Welcome to my personal website. This is where I will share my research, projects, and experience.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+**Profile to be added.** This paragraph will introduce my background, current work, and interests.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+### What you can find here
+
+- **Publications** - research papers and related materials.
+- **Projects** - selected work, methods, and contributions.
+- **CV** - education and professional experience.

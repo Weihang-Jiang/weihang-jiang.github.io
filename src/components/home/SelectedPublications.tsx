@@ -16,6 +16,8 @@ export default function SelectedPublications({ publications, title, enableOnePag
     const messages = useMessages();
     const resolvedTitle = title || messages.home.selectedPublications;
 
+    if (publications.length === 0) return null;
+
     return (
         <motion.section
             initial={{ opacity: 0, y: 20 }}

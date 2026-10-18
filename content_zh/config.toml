@@ -1,19 +1,12 @@
 [site]
-title = "刘嘉乐"
-description = "某某大学博士生个人主页。"
-last_updated = "2025年11月18日"
+title = "Weihang Jiang"
+description = "Weihang Jiang 的个人主页，记录研究、项目与成长。"
+last_updated = "2026年10月17日"
 
 [author]
-name = "刘嘉乐"
-title = "博士生"
-institution = "某某大学"
-
-[social]
-location = "城市，国家"
-location_details = [
-  "理科楼 123 室，",
-  "大学路，城市，国家"
-]
+name = "Weihang Jiang"
+title = "个人主页"
+institution = ""
 
 [[navigation]]
 title = "关于我"
@@ -28,22 +21,10 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "教学"
+title = "项目"
 type = "page"
-target = "teaching"
-href = "/teaching"
-
-[[navigation]]
-title = "奖项"
-type = "page"
-target = "awards"
-href = "/awards"
-
-[[navigation]]
-title = "服务"
-type = "page"
-target = "services"
-href = "/services"
+target = "projects"
+href = "/projects"
 
 [[navigation]]
 title = "简历"
