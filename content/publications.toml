@@ -1,4 +1,7 @@
-type = "publication"
+type = "card"
 title = "Research"
-description = "Research will appear here once added."
-source = "publications.bib"
+layout = "research"
+
+[[items]]
+title = "Political Distance and Cross-Border Subsidiary Performance"
+subtitle = "Work in progress"

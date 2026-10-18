@@ -232,7 +232,7 @@ export default function Profile({ author, social, features, researchInterests }:
                                         setShowEmail(!isEmailPinned);
                                         setLastClickedTooltip('email');
                                     }}
-                                    className={`p-2 sm:p-2 transition-colors duration-200 ${isEmailPinned
+                                    className={`inline-flex items-center gap-2 p-2 transition-colors duration-200 ${isEmailPinned
                                         ? 'text-accent'
                                         : 'text-neutral-600 dark:text-neutral-400 hover:text-accent'
                                         }`}
@@ -243,6 +243,7 @@ export default function Profile({ author, social, features, researchInterests }:
                                     ) : (
                                         <EnvelopeIcon className="h-5 w-5" />
                                     )}
+                                    <span className="text-sm">{social.email}</span>
                                 </button>
 
                                 {/* Email tooltip */}

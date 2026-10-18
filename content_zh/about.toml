@@ -2,7 +2,7 @@ type = "about"
 title = "关于我"
 
 [profile]
-research_interests = ["研究方向 · 待补充", "关注领域 · 待补充"]
+research_interests = ["Corporate Finance", "Political Economy"]
 
 [[sections]]
 id = "about"

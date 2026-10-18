@@ -2,7 +2,7 @@ type = "about"
 title = "About"
 
 [profile]
-research_interests = ["Research area - to be added", "Topic - to be added"]
+research_interests = ["Corporate Finance", "Political Economy"]
 
 [[sections]]
 id = "about"
