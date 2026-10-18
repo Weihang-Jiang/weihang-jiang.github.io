@@ -42,16 +42,10 @@ target = "about"
 href = "/"
 
 [[navigation]]
-title = "Publications"
+title = "Research"
 type = "page"
 target = "publications"
 href = "/publications"
-
-[[navigation]]
-title = "Projects"
-type = "page"
-target = "projects"
-href = "/projects"
 
 [[navigation]]
 title = "CV"

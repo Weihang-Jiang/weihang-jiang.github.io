@@ -13,7 +13,7 @@ title = "关于我"
 [[sections]]
 id = "featured_publications"
 type = "publications"
-title = "精选论文"
+title = "精选研究"
 filter = "selected"
 limit = 5
 

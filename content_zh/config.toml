@@ -15,16 +15,10 @@ target = "about"
 href = "/"
 
 [[navigation]]
-title = "论文"
+title = "研究"
 type = "page"
 target = "publications"
 href = "/publications"
-
-[[navigation]]
-title = "项目"
-type = "page"
-target = "projects"
-href = "/projects"
 
 [[navigation]]
 title = "简历"
